@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SpringBootCRUD2.Spring3.Spring3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.375 s - in SpringBootCRUD2.Spring3.Spring3ApplicationTests
